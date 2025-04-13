@@ -1,6 +1,6 @@
 
 ## About me:
-- 👧🏻 20 years old
+- 👧🏻 21 years old
 - 👩🏻‍💻 Undergraduate in Computer Engineering
 - 🐈 Cat mom
 
