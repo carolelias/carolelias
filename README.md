@@ -16,7 +16,7 @@ Final-year Computer Engineering student at the University of São Paulo (USP, Br
 | Project | Description |
 |---|---|
 | [pl0-compiler](https://github.com/pdrtorrente/pl0-compiler) | PL/0 compiler: finite-state lexical analyser and recursive-descent parser with panic-mode error recovery (C, team project) |
-| [trabalho2_ed3](https://github.com/carolelias/trabalho2_ed3) | Directed-graph analysis from binary records: strongly connected components (Kosaraju) and shortest paths (Dijkstra) (C) |
+| [directed-graph-analysis](https://github.com/carolelias/directed-graph-analysis) | Directed-graph analysis from binary records: strongly connected components (Kosaraju) and shortest paths (Dijkstra) (C) |
 
 ### Tools
 Python (NumPy, SciPy, Matplotlib, scikit-learn, MNE) · C · MATLAB · LaTeX · Git
